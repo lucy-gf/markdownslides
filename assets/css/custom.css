@@ -1,4 +1,4 @@
-.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal p {
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p {
   text-transform: none;
 }
 .reveal, .reveal h4 {
