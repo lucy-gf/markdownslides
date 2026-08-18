@@ -7,14 +7,14 @@
 .reveal smallest {
   display: inline-block;
   font-size: 0.5em;
-  line-height: 0.6em;
+  line-height: 1em;
   vertical-align: top; }
 
 .reveal smallest * {
   vertical-align: top; }
   
 .reveal ul {
-  list-style-type: "-"; }
+  list-style-type: circle; }
 
 .reveal ul ul {
-  list-style-type: "-"; }
+  list-style-type: circle; }
