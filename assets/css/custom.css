@@ -12,3 +12,15 @@
 
 .reveal smallest * {
   vertical-align: top; }
+  
+.reveal .slides section.top-aligned {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+.reveal .slides section.top-aligned h3:first-child {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
