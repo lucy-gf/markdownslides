@@ -8,5 +8,7 @@
   display: inline-block;
   font-size: 0.3em;
   line-height: 0.6em;
-  vertical-align: top; 
-}
+  vertical-align: top; }
+
+.reveal smallest * {
+  vertical-align: top; }
