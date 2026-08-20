@@ -1,11 +1,6 @@
 <!-- .slide: data-background="{{asset_folder}}/background.png" -->
 
-## Results
+## Open questions
 
----
-
-### Preliminary: recovers true healthcare attendance rates well
-
-<img src="{{asset_folder}}/reporting_rates.png"/>
-
+- Are the variables used here reasonable, or is anything obvious missing?
 
